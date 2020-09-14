@@ -21,3 +21,5 @@ class Empleado{
 console.log("Nombre del Empleado: "+empleado01.nombre);
 console.log("Salario base: $"+empleado01.salario);
 console.log("Salario Neto: $"+empleado01.get_salarioNeto());
+
+console.log("PRUEBA");
